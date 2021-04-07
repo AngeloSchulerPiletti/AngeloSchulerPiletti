@@ -12,8 +12,7 @@
 :pushpin: https://www.divisores.sanguanel.com<br><br>
   
   
-  <br>
-Contatos:<br>
+### Contatos:<br>
   :email: angelopiletti@gmail.com <br>
   :iphone: +55 51 982505194 <br>
 <br>
