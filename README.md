@@ -8,11 +8,8 @@
 🎲 Currently studying back-end and trying to integrate it with my front-end know;<br>
 :fax: In my last projects, I had focused more on web development;<br><br>
 
-### Last Projects:<br>
-:pushpin: https://www.editorial.sanguanel.com<br>
-:pushpin: https://www.divisores.sanguanel.com<br><br>
-  
-  
+
+
 ### Contacts:<br>
   :email: angelopiletti@gmail.com <br>
   :iphone: +55 51 982505194 <br>
